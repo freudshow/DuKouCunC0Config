@@ -1,0 +1,39 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 0,
+  "TotalYxCount": 3,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "PCS模式状态-PQ",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "PCS模式状态-VF",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "PCS模式状态-DC",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}

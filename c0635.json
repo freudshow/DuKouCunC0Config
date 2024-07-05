@@ -1,0 +1,46 @@
+{
+  "Period": 50,
+  "dataset": [
+    {
+      "DevIndex": 0,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 540,
+          "Desc": "设备[1]-PCS模式状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 545,
+          "Desc": "设备[0]-PCS模式状态-PQ",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "1"
+        },
+        {
+          "RtdbNo": 546,
+          "Desc": "设备[0]-PCS模式状态-VF",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 547,
+          "Desc": "设备[0]-PCS模式状态-DC",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "3"
+        }
+      ]
+    }
+  ]
+}
