@@ -1,7 +1,7 @@
 {
   "applianceName": "未命名",
   "TotalYcCount": 0,
-  "TotalYxCount": 3,
+  "TotalYxCount": 20,
   "TotalYkCount": 0,
   "TotalDDCount": 0,
   "dataItem": [
@@ -10,7 +10,7 @@
       "devNo": 0,
       "RegNo": 0,
       "type": 0,
-      "Name": "PCS模式状态-PQ",
+      "Name": "1#储能-PCS运行模式-Ac恒功率(分相控制)",
       "ModelName": null,
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -20,7 +20,7 @@
       "devNo": 0,
       "RegNo": 1,
       "type": 0,
-      "Name": "PCS模式状态-VF",
+      "Name": "1#储能-PCS运行模式-独立逆变",
       "ModelName": null,
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -30,7 +30,177 @@
       "devNo": 0,
       "RegNo": 2,
       "type": 0,
-      "Name": "PCS模式状态-DC",
+      "Name": "1#储能-PCS运行模式-静置",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "1#储能-PCS运行模式-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "1#储能-PCS 运行状态-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "1#储能-PCS 运行状态-运行中",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "1#储能-PCS 运行状态-故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "1#储能-PCS 运行状态-软启",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "1#储能-PCS 运行状态-短静置",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 0,
+      "Name": "1#储能-PCS 运行状态-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 0,
+      "Name": "2#储能-PCS运行模式-Ac恒功率(分相控制)",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 0,
+      "Name": "2#储能-PCS运行模式-独立逆变",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 0,
+      "Name": "2#储能-PCS运行模式-静置",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 0,
+      "Name": "2#储能-PCS运行模式-待机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 14,
+      "type": 0,
+      "Name": "2#储能-PCS 运行状态-停机",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 15,
+      "type": 0,
+      "Name": "2#储能-PCS 运行状态-运行中",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 16,
+      "type": 0,
+      "Name": "2#储能-PCS 运行状态-故障",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 17,
+      "type": 0,
+      "Name": "2#储能-PCS 运行状态-软启",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 18,
+      "type": 0,
+      "Name": "2#储能-PCS 运行状态-短静置",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 19,
+      "type": 0,
+      "Name": "2#储能-PCS 运行状态-待机",
       "ModelName": null,
       "Ratio": 1.0,
       "BoardDevAddr": 0
