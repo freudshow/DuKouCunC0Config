@@ -2,7 +2,7 @@
   "Pad": {
     "Cmd03DataType": 1,
     "Cmd03MaxDataNum": 50,
-    "Cmd01MaxDataNum": 10,
+    "Cmd01MaxDataNum": 50,
     "Cmd05DataType": 0,
     "Cmd10DataType": 0,
     "CommunicationModle": 0,
