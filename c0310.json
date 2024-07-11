@@ -1,7 +1,7 @@
 {
   "TcpModeEnable": 0,
   "ClearData": 1,
-  "SendFramePeriod": 3000,
+  "SendFramePeriod": 1000,
   "dataset": [
     {
       "DevIndex": "0",
@@ -384,7 +384,7 @@
           "SlaveDevAddr": 1,
           "ModbusRegAddr": 10256,
           "GetRegCount": 31,
-          "AreaNum": 0,
+          "AreaNum": 1,
           "DataProperty": 1,
           "DataType": "ModbusDataType_MultiType",
           "DataTypeEnum": 7,
