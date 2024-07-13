@@ -185,7 +185,7 @@
           "Type": 0,
           "No": 1,
           "InputOutPut": 1,
-          "SelectData": null
+          "SelectData": "1"
         },
         {
           "RtdbNo": 611,
@@ -193,7 +193,7 @@
           "Type": 0,
           "No": 2,
           "InputOutPut": 1,
-          "SelectData": null
+          "SelectData": "2"
         },
         {
           "RtdbNo": 612,
@@ -201,7 +201,7 @@
           "Type": 0,
           "No": 3,
           "InputOutPut": 1,
-          "SelectData": null
+          "SelectData": "3"
         },
         {
           "RtdbNo": 613,
@@ -209,7 +209,7 @@
           "Type": 0,
           "No": 4,
           "InputOutPut": 1,
-          "SelectData": null
+          "SelectData": "4"
         },
         {
           "RtdbNo": 614,
@@ -217,7 +217,7 @@
           "Type": 0,
           "No": 5,
           "InputOutPut": 1,
-          "SelectData": null
+          "SelectData": "5"
         },
         {
           "RtdbNo": 615,
@@ -225,7 +225,7 @@
           "Type": 0,
           "No": 6,
           "InputOutPut": 1,
-          "SelectData": null
+          "SelectData": "6"
         }
       ]
     }
