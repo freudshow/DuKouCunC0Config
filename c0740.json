@@ -8,7 +8,88 @@
     "CommunicationModle": 0,
     "DevAddr": 5
   },
-  "Para": [],
+  "Para": [
+    {
+      "No": 0,
+      "Addr": 33824,
+      "Desc": "modbus通用函数发帧函数",
+      "Unit": "整形4字节",
+      "Type": 2,
+      "MapAddr": 2
+    },
+    {
+      "No": 1,
+      "Addr": 33826,
+      "Desc": "modbus通用函数发帧函数",
+      "Unit": "整形4字节",
+      "Type": 2,
+      "MapAddr": 2
+    },
+    {
+      "No": 2,
+      "Addr": 33828,
+      "Desc": "modbus通用函数发帧函数",
+      "Unit": "整形4字节",
+      "Type": 2,
+      "MapAddr": 2
+    },
+    {
+      "No": 3,
+      "Addr": 33830,
+      "Desc": "modbus通用函数发帧函数",
+      "Unit": "整形4字节",
+      "Type": 2,
+      "MapAddr": 2
+    },
+    {
+      "No": 4,
+      "Addr": 33832,
+      "Desc": "modbus通用函数发帧函数",
+      "Unit": "整形4字节",
+      "Type": 2,
+      "MapAddr": 2
+    },
+    {
+      "No": 5,
+      "Addr": 33834,
+      "Desc": "modbus通用函数发帧函数",
+      "Unit": "整形4字节",
+      "Type": 2,
+      "MapAddr": 2
+    },
+    {
+      "No": 6,
+      "Addr": 33836,
+      "Desc": "modbus通用函数发帧函数",
+      "Unit": "整形4字节",
+      "Type": 2,
+      "MapAddr": 2
+    },
+    {
+      "No": 7,
+      "Addr": 33838,
+      "Desc": "modbus通用函数发帧函数",
+      "Unit": "整形4字节",
+      "Type": 2,
+      "MapAddr": 2
+    },
+    {
+      "No": 8,
+      "Addr": 33840,
+      "Desc": "modbus通用函数发帧函数",
+      "Unit": "整形4字节",
+      "Type": 2,
+      "MapAddr": 2
+    },
+    {
+      "No": 9,
+      "Addr": 33842,
+      "Desc": "modbus通用函数发帧函数",
+      "Unit": "整形4字节",
+      "Type": 2,
+      "MapAddr": 2
+    }
+  ],
   "YCDataItem": [
     {
       "No": 0,
